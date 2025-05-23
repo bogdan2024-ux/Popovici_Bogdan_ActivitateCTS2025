@@ -1,0 +1,8 @@
+restaurant A - contracte cu clientii, reduceri pentru cei cu istoric de evenimente,
+discount calculat in fct de costul total al tuturor evenimentelor
+
+restaurant B - discount calculat in functie de lista costurilor tuturor evenimentelor
+
+implementarea unui modul daca B e cumparat de A. modulul nu realizeaza modificari sw in B,
+dar sa se mapeze cerintele de implementare sw existent in A
+

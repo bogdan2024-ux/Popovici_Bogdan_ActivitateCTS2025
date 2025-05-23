@@ -1,0 +1,4 @@
+in cadrul unui restaurant, exista un set predefinit de pasi care trebuie urmati in urma unei daune.
+1. identificare dauna, 2. evaluare initiala dauna, 3. trimitere evaluare spre manager
+sa se implementeze modulul care permite utilizarea procedurii pentru mai multe tipuri
+(bucatarie, sala mese, toalete etc)

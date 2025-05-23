@@ -3,17 +3,28 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter2/Adapter2.iml" filepath="$PROJECT_DIR$/Adapter2/Adapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS2025.iml" filepath="$PROJECT_DIR$/CTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsability2/ChainOfResponsability2.iml" filepath="$PROJECT_DIR$/ChainOfResponsability2/ChainOfResponsability2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite2/Composite2.iml" filepath="$PROJECT_DIR$/Composite2/Composite2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator2/Decorator2.iml" filepath="$PROJECT_DIR$/Decorator2/Decorator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight2/Flyweight2.iml" filepath="$PROJECT_DIR$/Flyweight2/Flyweight2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Memento/Memento.iml" filepath="$PROJECT_DIR$/Memento/Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Model1/Model1.iml" filepath="$PROJECT_DIR$/Model1/Model1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Model2/Model2.iml" filepath="$PROJECT_DIR$/Model2/Model2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Model3/Model3.iml" filepath="$PROJECT_DIR$/Model3/Model3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy2/Proxy2.iml" filepath="$PROJECT_DIR$/Proxy2/Proxy2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy2/Strategy2.iml" filepath="$PROJECT_DIR$/Strategy2/Strategy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
     </modules>
   </component>
 </project>
